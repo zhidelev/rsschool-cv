@@ -53,6 +53,10 @@ def is_prime(num):
 
 - Saint Petersburg University of Telecommunications (The audiovisual technologies)
 
+### Courses
+
+- 6.00.1x: Introduction to Computer Science and Programming Using Python ([certificate](https://s3.amazonaws.com/verify.edx.org/downloads/d2b493cb6a1c4eeba1508717883386e7/Certificate.pdf))
+
 ### Languages
 
 - Russian (native)
